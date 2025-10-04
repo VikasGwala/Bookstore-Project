@@ -19,14 +19,61 @@ li{
  }
  .c2{
     height: 2900px;
-    width: 1000px;
+    width: 700px;
     background-color: blue;
  }
  .i1{
     position: relative;
+    left: 40px;
+    top: 40px;
 
  }
  .i2{
     position: relative;
-    left: px;
+    left:400px;
+    bottom: 250px;
+ }
+ .i3{
+    position: relative;
+    left: 40px;
+    top: 40px;
+
+ }
+ .i4{
+    position: relative;
+    left:400px;
+    bottom: 250px;
+ }
+ .i5{
+    position: relative;
+    left: 40px;
+    top: 40px;
+
+ }
+ .i6{
+    position: relative;
+    left:400px;
+    bottom: 250px;
+ }
+ .i7{
+    position: relative;
+    left: 40px;
+    top: 40px;
+
+ }
+ .i8{
+    position: relative;
+    left:400px;
+    bottom: 250px;
+ }
+ .i9{
+    position: relative;
+    left: 40px;
+    top: 40px;
+
+ }
+ .i10{
+    position: relative;
+    left:400px;
+    bottom: 250px;
  }
