@@ -1,0 +1,32 @@
+.c1{
+    background-color: red;
+    text-align: center;
+    font-size: 50px;
+}
+nav{
+    background-color: aqua;
+}
+li{
+    display: inline;
+    border: 1px;
+    margin: 50px;
+    font-size: 20px;
+ }
+ div{
+    /* display: inline; */
+    /* background-color: blue; */
+    margin-top: 20px;
+ }
+ .c2{
+    height: 2900px;
+    width: 1000px;
+    background-color: blue;
+ }
+ .i1{
+    position: relative;
+
+ }
+ .i2{
+    position: relative;
+    left: px;
+ }

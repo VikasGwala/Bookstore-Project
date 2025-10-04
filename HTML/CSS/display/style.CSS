@@ -1,0 +1,28 @@
+/* a{
+    display: block;
+    width: 200px;
+    height: 200px;
+   font-size: 100px; 
+    
+} */
+ nav{
+    border: 2px solid red;
+    padding: 30px;
+    background-color: skyblue;
+    border-radius: 10px;
+ }
+ ul{
+    text-align: end;
+ }
+ li{
+    border-radius: 20px;
+    color: white;
+    display: inline;
+    margin: 20px;
+    font-size: 40px;
+    border: 2px solid rgb(188, 13, 42);
+    background-color: green;
+ }
+ li:hover{
+    background-color: blueviolet;
+ }

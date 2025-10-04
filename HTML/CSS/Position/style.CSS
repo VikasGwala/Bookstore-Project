@@ -1,0 +1,47 @@
+*{
+    height: 1000vh;
+}
+.boxes{
+    width: 400px;
+    height: 400px;
+    background-color: wheat;
+    margin: 100px auto;
+    /* auto is used to put the bigger box in centre */
+}
+.box{
+    width: 100px;
+    height: 100px;
+}
+.red{
+    background-color: red;
+    position: relative;
+    left: 150px;
+    top: 150px;
+}
+.yellow{
+    background-color: yellow;
+    position: fixed;
+    right: 100px;
+    bottom: 50px;
+    /* right push of 100px is from margin or screen */
+    z-index: 1;
+    /* we use z-index in case of overlapping. higher the number 
+    , higher is the priority. */
+}
+.blue{
+    background-color: blue;
+    position: fixed;
+    right: 100px;
+    bottom: 50px;
+    z-index: 2;
+}
+.green{
+    background-color: green;
+    position: sticky;
+    top: 200px;
+}
+/* .d1{
+    background-color: burlywood;
+    height: 10000px;
+    width: 200px;
+} */
