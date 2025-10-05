@@ -1,79 +1,182 @@
 .c1{
-    background-color: red;
+    background-color:yellow ;
     text-align: center;
     font-size: 50px;
 }
-nav{
-    background-color: aqua;
+.p1{
+   font-size: 30px;
+   background-color: red;
 }
-li{
+nav{
+    background-color:green ;
+} 
+ li{
     display: inline;
     border: 1px;
-    margin: 50px;
+    margin: 150px;
     font-size: 20px;
  }
- div{
-    /* display: inline; */
-    /* background-color: blue; */
-    margin-top: 20px;
- }
- .c2{
-    height: 2900px;
-    width: 700px;
-    background-color: blue;
- }
+.d1{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i1{
-    position: relative;
-    left: 40px;
-    top: 40px;
-
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i1p1{
+   text-align: center;
+  }
+  .i1p2{
+   text-align: center;
+  }
+.d2{
+  position: relative;
+  left: 15px;
+  top: 15px;
+}
  .i2{
-    position: relative;
-    left:400px;
-    bottom: 250px;
+   height: 320px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i2p1{
+   text-align: center;
+  }
+  .i2p2{
+   text-align: center;
+  }
+  
+.d3{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i3{
-    position: relative;
-    left: 40px;
-    top: 40px;
-
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i3p1{
+   text-align: center;
+  }
+  .i3p2{
+   text-align: center;
+  }
+.d4{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i4{
-    position: relative;
-    left:400px;
-    bottom: 250px;
+   height: 400px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i4p1{
+   text-align: center;
+  }
+  .i4p2{
+   text-align: center;
+  }
+.d5{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i5{
-    position: relative;
-    left: 40px;
-    top: 40px;
-
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i5p1{
+   text-align: center;
+  }
+  .i5p2{
+   text-align: center;
+  }
+.d6{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i6{
-    position: relative;
-    left:400px;
-    bottom: 250px;
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i6p1{
+   text-align: center;
+  }
+  .i6p2{
+   text-align: center;
+  }
+.d7{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i7{
-    position: relative;
-    left: 40px;
-    top: 40px;
-
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i7p1{
+   text-align: center;
+  }
+  .i7p2{
+   text-align: center;
+  }
+.d8{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i8{
-    position: relative;
-    left:400px;
-    bottom: 250px;
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i8p1{
+   text-align: center;
+  }
+  .i8p2{
+   text-align: center;
+  }
+.d9{
+  position: relative;
+  left: 25px;
+  top: 15px;
+}
  .i9{
-    position: relative;
-    left: 40px;
-    top: 40px;
-
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i9p1{
+   text-align: center;
+  }
+  .i9p2{
+   text-align: center;
+  }
+.d10{
+  position: relative;
+  left: 15px;
+  top: 15px;
+}
  .i10{
-    position: relative;
-    left:400px;
-    bottom: 250px;
+   height: 350px;
+   width: 250px;
+   background-color: aqua;
  }
+  .i10p1{
+   text-align: center;
+  }
+  .i10p2{
+   text-align: center;
+  }
+  .c3{
+   background-color: aquamarine;
+  }
